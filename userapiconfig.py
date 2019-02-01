@@ -8,11 +8,11 @@ CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
 
-MU_SUFFIX = 'zhaoj.in'
-MU_REGEX = '%5m%id.%suffix'
+MU_SUFFIX = 'microsoft.com'
+MU_REGEX = 'microsoft.com'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
-API_INTERFACE = 'modwebapi'  # glzjinmod, modwebapi
+API_INTERFACE = 'glzjinmod'  # glzjinmod, modwebapi
 
 WEBAPI_URL = 'https://zhaoj.in'
 WEBAPI_TOKEN = 'glzjin'
@@ -21,11 +21,11 @@ WEBAPI_TOKEN = 'glzjin'
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = '127.0.0.1'
+MYSQL_HOST = '202.182.106.215'
 MYSQL_PORT = 3306
-MYSQL_USER = 'ss'
-MYSQL_PASS = 'ss'
-MYSQL_DB = 'shadowsocks'
+MYSQL_USER = 'ssr'
+MYSQL_PASS = 'ssr'
+MYSQL_DB = 'ssr'
 
 MYSQL_SSL_ENABLE = 0
 MYSQL_SSL_CA = ''
