@@ -23,9 +23,9 @@ MUDB_FILE = 'mudb.json'
 # Mysql
 MYSQL_HOST = '202.182.106.215'
 MYSQL_PORT = 3306
-MYSQL_USER = 'ssr'
-MYSQL_PASS = 'ssr'
-MYSQL_DB = 'ssr'
+MYSQL_USER = 'ssr_12138cloud_'
+MYSQL_PASS = 'xdMaC3mz6e5rt8Ks'
+MYSQL_DB = 'ssr_12138cloud_'
 
 MYSQL_SSL_ENABLE = 0
 MYSQL_SSL_CA = ''
